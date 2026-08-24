@@ -97,7 +97,7 @@ function logoutAdmin() {
 }
 
 function bukaDatabase() {
-    window.open('https://docs.google.com/spreadsheets/d/1007JXOa5VQsDUmBcwq4jdGiF8IHvXWqdlWAEehCHPyM/edit?usp=sharing', '_blank');
+    window.open('https://docs.google.com/spreadsheets/d/19oyNhAgJfeSlzADY1vBiiytsJtL0k09Prp3N_lmqN04/edit?usp=sharing', '_blank');
 }
 
 // ================= DATA DIRI (disimpan di sessionStorage) =================
